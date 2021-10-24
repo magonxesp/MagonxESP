@@ -4,7 +4,7 @@ Bienvenidos a mi perfil de GitHub, permitirme que me presente.
 
 Soy Magonx un desarrollador backend de esos que usan PHP para desarrollar aplicaciones del lado servidor usando frameworks como Symfony, Laravel o Drupal.
 
-Tambien desarrollo otras cosas en otros lenguajes como Python , Go o JavaScript.
+Tambien desarrollo otras cosas en otros lenguajes como Python, Go o JavaScript.
 
 Me gusta aprender nuevos lenguajes de programación siempre que me llamen la atención. Ultimamente le estoy hechando el ojo a Rust 🦀 👀
 
