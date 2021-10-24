@@ -12,8 +12,6 @@ Actualmente me estoy enfocando en aprender arquitecturas de microservios y obten
 
 ![Lenguajes que mas uso](https://github-readme-stats.vercel.app/api/top-langs/?username=magonxesp&layout=compact)
 
-![MagonxESP GitHub stats](https://github-readme-stats.vercel.app/api?username=magonxesp&show_icons=true&theme=radical)
-
 <!--
 **MagonxESP/MagonxESP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
