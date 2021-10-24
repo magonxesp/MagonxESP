@@ -10,8 +10,6 @@ Me gusta aprender nuevos lenguajes de programación siempre que me llamen la ate
 
 Actualmente me estoy enfocando en aprender arquitecturas de microservios y obtener una cultura devops ya que tambien me gusta montar sistemas y todo lo relacionado a la infraestructura donde se despliegan las aplicaciones.
 
-![Lenguajes que mas uso](https://github-readme-stats.vercel.app/api/top-langs/?username=magonxesp&layout=compact)
-
 <!--
 **MagonxESP/MagonxESP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
