@@ -5,10 +5,10 @@ I'm a programmer. I studied a higher degree in web application development 🥵
 ![soy programador fp xdddddd](./Soy_programador_fp.gif)
 
 As developer you can't miss this [brilliant video](https://www.youtube.com/watch?v=OgIRAjnnJzI), 
-if you are Spanish is a must. If you don't saw the video you are not a real developer 😱
+if you are Spanish is a must. If you don't saw the video you aren't a real developer 😱
 
 I love Spring Boot and the Java/Kotlin ecosystem for Back-end development, 
-but I'm learning Go as a lightweit alternative and for desktop applications Rust. 
+but I'm learning Go as a lightweight alternative and for desktop applications Rust. 
 So I'm becoming a Rustacean 😎
 
 <img alt="shimarin reading the rust programming language" src="./Rin_Shima_The_Rust_Programming_Language.png" height="200">
